@@ -1,6 +1,6 @@
 # App for city hall
 
-Un paragraphe de la description du projet va ici
+Le projet App_City_Hall a pour but de mettre à la disposition des mairies qui se trouvent au **Sénégal** des logiciels ou plateformes web qui vont leur permettre de faciliter leur travaille ou bien d'avoir un meilleur suivi des activités qu'ils font.
 
 ## Listes d'Application
 
