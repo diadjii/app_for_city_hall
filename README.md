@@ -6,7 +6,7 @@ Le projet App_City_Hall a pour but de mettre à la disposition des mairies qui s
 
 📦 Applications\
   ┣ 📂 Idéé\
-  ┃ ┗ 📜 Application permettant aux habitants d'une ville de signaler des incidents(voles, agression,etc...) et ça permettra à la commune les zones à eviter etc..
+  ┃ ┗ 📜 Application permettant aux habitants d'une ville de signaler des incidents(voles, agression,etc...) et ça permettra aux habitants de la ville les zones à eviter etc..
   ┣ 📂 En construction\
   ┃ ┗ 📜 app\
   ┣ 📂 Disponible\
