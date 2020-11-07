@@ -5,15 +5,16 @@ Le projet App_City_Hall a pour but de mettre à la disposition des mairies qui s
 ## Listes d'Application
 
 📦 Applications\
-  ┣ 📂 Idéé\
-  ┃ ┗ 📜 Application permettant aux habitants d'une ville de signaler des incidents(voles, agression,etc...) et ça permettra aux habitants de la ville les zones à eviter etc..
-  ┣ 📂 En construction\
-  ┃ ┗ 📜 app\
-  ┣ 📂 Disponible\
-  ┃ ┗ 📜 app\
-  ┣ 📜 app\
-  ┣ 📜 app\
-  ┗ 📜 app
+ ┣ 📂 Idéé\
+ ┃ ┗ 📜 Application permettant aux habitants d'une ville de signaler des incidents(voles, agression,etc...) et ça permettra aux habitants de la ville les zones à eviter etc..
+┣ 📂 En construction\
+ ┃ ┗ 📜 Api pour la gestions des actes d'état civil
+┃ ┗ 📜 app\
+ ┣ 📂 Disponible\
+ ┃ ┗ 📜 app\
+ ┣ 📜 app\
+ ┣ 📜 app\
+ ┗ 📜 app
 
 ## Contribuer
 
@@ -21,7 +22,13 @@ Veuillez lire [CONTRIBUTING](CONTRIBUTING.md) pour plus de détails sur notre co
 
 ## Auteurs
 
-* **niijaay_diadji** - *Travail initial* - [app_for_city_hall](https://github.com/diadjii/app_for_city_hall)
+-   **niijaay_diadji** - _Travail initial_ - [app_for_city_hall](https://github.com/diadjii/app_for_city_hall)
+
+## En construction
+
+### Etat civil
+
+[Application de gestion des actes d'état civil](https://github.com/PapePathe/etat_civil)
 
 ## Contributeurs
 
